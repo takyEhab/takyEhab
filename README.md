@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @takyEhab
-- 👀 I’m interested in backend development 
+- 👀 I’m interested in frontend development 
 - 🌱 I’m currently learning Node.js 
-- 💞️ I’m looking to collaborate on "backend"
+- 💞️ I’m looking to collaborate on "frontend"
 - 📫 How to reach me https://www.linkedin.com/in/taky-gad/
 
 <!---
