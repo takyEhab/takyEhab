@@ -74,15 +74,6 @@ An auction-based e-commerce web application inspired by online marketplace platf
 
 ---
 
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=takyEhab&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takyEhab&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## Current Goals
 
 - Improve my backend development skills
