@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taky Allah Ehab</h1>
+<h1 align="center">Hi, I'm Taky Allah Ehab</h1>
 
 <h3 align="center">
   Software Developer | Backend & Web Technologies
@@ -16,18 +16,18 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Business student at **Alexandria University**
-- 💻 Interested in **software development, backend systems, and databases**
-- 🌱 Currently improving my knowledge of **Node.js, Python, SQL, and system fundamentals**
-- 🔧 Experienced with both **frontend and backend development**
-- 🚀 I enjoy building projects that solve real-world problems
-- 📚 Always learning new technologies and improving my development skills
+- Business student at **Alexandria University**
+- Interested in **software development, backend systems, and databases**
+- Currently improving my knowledge of **Node.js, Python, SQL, and system fundamentals**
+- Experienced with both **frontend and backend development**
+- I enjoy building projects that solve real-world problems
+- Always learning new technologies and improving my development skills
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Languages
 <p>
@@ -51,30 +51,30 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔹 DevLink
+### DevLink
 A developer-focused platform built to connect developers and provide useful features for collaboration.
 
 **Technologies:** React, Node.js, Express, MySQL
 
 ---
 
-### 🔹 Network Django
+### Network Django
 A social-network-style web application built with Django and React.
 
 **Technologies:** Django, Django REST Framework, React, JavaScript
 
 ---
 
-### 🔹 Commerce Django
+### Commerce Django
 An auction-based e-commerce web application inspired by online marketplace platforms.
 
 **Technologies:** Python, Django, HTML, CSS
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=takyEhab&show_icons=true&theme=github_dark&hide_border=true" />
@@ -83,7 +83,7 @@ An auction-based e-commerce web application inspired by online marketplace platf
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
 - Improve my backend development skills
 - Build more real-world projects
@@ -93,7 +93,7 @@ An auction-based e-commerce web application inspired by online marketplace platf
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/taky-gad/">
