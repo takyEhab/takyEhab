@@ -95,5 +95,5 @@ An auction-based e-commerce web application inspired by online marketplace platf
 ---
 
 <p align="center">
-  <i>Always learning. Always building. 🚀</i>
+  <i>Always learning. Always building.</i>
 </p>
