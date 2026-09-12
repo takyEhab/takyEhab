@@ -18,12 +18,14 @@
 
 ## About Me
 
-- Business student at **Alexandria University**
-- Interested in **software development, backend systems, and databases**
-- Currently improving my knowledge of **Node.js, Python, SQL, and system fundamentals**
-- Experienced with both **frontend and backend development**
-- I enjoy building projects that solve real-world problems
-- Always learning new technologies and improving my development skills
+- Full-stack developer (MERN) with hands-on experience deploying and maintaining production web apps
+- Built and deployed Waraqa, a full-stack online learning platform — including provisioning the 
+  Linux server, configuring Nginx, DNS, and SSL, and managing MySQL myself on DigitalOcean
+- Comfortable across the stack: React/Vue on the frontend, Node.js/Express on the backend, 
+  SQL and NoSQL databases
+- Studying Management Information Systems at Alexandria University alongside my development work
+- Completed ALX's Software Engineering program and Harvard's CS50/CS50W
+- Currently building DevLink, a developer networking platform with real-time messaging
 
 ---
 
