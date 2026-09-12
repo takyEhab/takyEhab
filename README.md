@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  Building practical software projects and continuously expanding my knowledge in software development, databases, and computer systems.
+  Full-stack developer with hands-on experience across the MERN stack, Vue, and Linux server deployment — from writing application code to configuring the infrastructure it runs on.
 </p>
 
 <p align="center">
@@ -54,6 +54,13 @@
 ---
 
 ## Featured Projects
+
+### Waraqa (Freelance)
+Full-stack online learning platform — contributed to frontend and backend development, 
+and independently set up and managed the production server (Linux, Nginx, SSL, DigitalOcean).
+**Technologies:** Vue.js, Node.js, Express, MongoDB
+
+---
 
 ### DevLink
 A developer-focused platform built to connect developers and provide useful features for collaboration.
